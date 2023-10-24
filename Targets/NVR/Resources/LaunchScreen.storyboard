@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22146" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22122"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch-background" translatesAutoresizingMaskIntoConstraints="NO" id="hYJ-Bw-Kbr">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="SarafanLogo" translatesAutoresizingMaskIntoConstraints="NO" id="VqP-vi-uC2">
+                                <rect key="frame" x="150.66666666666666" y="763" width="92" height="22"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch-icon" translatesAutoresizingMaskIntoConstraints="NO" id="Fo6-dS-io0">
+                                <rect key="frame" x="146.66666666666666" y="376" width="100" height="100"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="hYJ-Bw-Kbr" firstAttribute="trailing" secondItem="Bcu-3y-fUS" secondAttribute="trailing" id="IPT-JQ-Qsu"/>
+                            <constraint firstItem="hYJ-Bw-Kbr" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" id="SDq-oh-vai"/>
+                            <constraint firstItem="VqP-vi-uC2" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="VtV-aJ-2Ag"/>
+                            <constraint firstItem="Fo6-dS-io0" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="bJx-Fi-hP9"/>
+                            <constraint firstItem="Fo6-dS-io0" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="fis-41-edD"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="bottom" secondItem="VqP-vi-uC2" secondAttribute="bottom" constant="33" id="mMn-Wn-SVD"/>
+                            <constraint firstItem="hYJ-Bw-Kbr" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="wPf-jK-n3K"/>
+                            <constraint firstAttribute="bottom" secondItem="hYJ-Bw-Kbr" secondAttribute="bottom" id="wx2-0o-gFn"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="SarafanLogo" width="92" height="22"/>
+        <image name="launch-background" width="125" height="222.33332824707031"/>
+        <image name="launch-icon" width="100" height="100"/>
+    </resources>
+</document>

@@ -1,0 +1,49 @@
+{
+	"error": "",
+	"data": [
+		{
+			"id": "64da5d6eed8bb7991683b614",
+			"app_id": "64da5d67949701b2d810afcc",
+			"user_id": "627bb9d17c1c3479bbbef071",
+			"title": "main",
+			"description": "",
+			"image_url": "https://app.storysdk.com/images/onboarding-default.webp",
+			"start_time": "1691985625780",
+			"end_time": "",
+			"target_limit": null,
+			"static_segmentation": null,
+			"dynamic_segmentation": null,
+			"active": true,
+			"type": "onboarding",
+			"category": "",
+			"settings": {
+				"storiesSize": "LARGE",
+				"lastStoryPosition": 3,
+				"isProhibitToClose": false,
+				"isProgressHidden": false,
+				"addToStories": false
+			},
+			"created_at": "2023-08-14T16:59:26.059Z",
+			"updated_at": "2023-08-17T09:26:23.463Z"
+		},
+		{
+			"id": "64da620a3e323b2f0e8fd33f",
+			"app_id": "64da5d67949701b2d810afcc",
+			"user_id": "627bb9d17c1c3479bbbef071",
+			"title": "How to play?",
+			"description": "",
+			"image_url": "https://app.storysdk.com/images/group-default.jpg",
+			"start_time": "1691985605812",
+			"end_time": "",
+			"target_limit": null,
+			"static_segmentation": null,
+			"dynamic_segmentation": null,
+			"active": true,
+			"type": "group",
+			"category": "",
+			"settings": null,
+			"created_at": "2023-08-14T17:19:06.106Z",
+			"updated_at": "0001-01-01T00:00:00Z"
+		}
+	]
+}

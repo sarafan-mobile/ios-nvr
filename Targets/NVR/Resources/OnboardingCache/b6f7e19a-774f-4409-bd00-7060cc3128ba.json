@@ -1,0 +1,312 @@
+{
+	"error": "",
+	"data": {
+		"id": "64da5d67949701b2d810afcc",
+		"user_id": "627bb9d17c1c3479bbbef071",
+		"title": "NVR iOS",
+		"ios_app_id": "",
+		"android_app_id": "",
+		"share": false,
+		"sdk_token": "b6f7e19a-774f-4409-bd00-7060cc3128ba",
+		"setting_ios": {},
+		"setting_android": {},
+		"settings": {
+			"groupView": {
+				"ios": "circle",
+				"android": "circle",
+				"react": "circle",
+				"web": "circle"
+			},
+			"isShowMockup": false,
+			"fonts": [
+				{
+					"family": "Roboto",
+					"variants": [
+						"100",
+						"100italic",
+						"300",
+						"300italic",
+						"regular",
+						"italic",
+						"500",
+						"500italic",
+						"700",
+						"700italic",
+						"900",
+						"900italic"
+					],
+					"subsets": [
+						"cyrillic",
+						"cyrillic-ext",
+						"greek",
+						"greek-ext",
+						"latin",
+						"latin-ext",
+						"vietnamese"
+					],
+					"version": "v30",
+					"lastModified": "2022-09-22",
+					"files": {
+						"100": "http://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxPKTM1K9nz.ttf",
+						"300": "http://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAx05IsDqlA.ttf",
+						"500": "http://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAx05IsDqlA.ttf",
+						"700": "http://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAx05IsDqlA.ttf",
+						"900": "http://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAx05IsDqlA.ttf",
+						"100italic": "http://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzcXLsnzjYk.ttf",
+						"300italic": "http://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9AMX6lJBP.ttf",
+						"regular": "http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf",
+						"italic": "http://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xPKTM1K9nz.ttf",
+						"500italic": "http://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9AMX6lJBP.ttf",
+						"700italic": "http://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9AMX6lJBP.ttf",
+						"900italic": "http://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9AMX6lJBP.ttf"
+					},
+					"category": "sans-serif",
+					"kind": "webfonts#webfont"
+				},
+				{
+					"family": "Montserrat",
+					"variants": [
+						"100",
+						"200",
+						"300",
+						"regular",
+						"500",
+						"600",
+						"700",
+						"800",
+						"900",
+						"100italic",
+						"200italic",
+						"300italic",
+						"italic",
+						"500italic",
+						"600italic",
+						"700italic",
+						"800italic",
+						"900italic"
+					],
+					"subsets": [
+						"cyrillic",
+						"cyrillic-ext",
+						"latin",
+						"latin-ext",
+						"vietnamese"
+					],
+					"version": "v25",
+					"lastModified": "2022-09-22",
+					"files": {
+						"100": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-Y3tcoqK5.ttf",
+						"200": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-Y3tcoqK5.ttf",
+						"300": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-Y3tcoqK5.ttf",
+						"500": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-Y3tcoqK5.ttf",
+						"600": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-Y3tcoqK5.ttf",
+						"700": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-Y3tcoqK5.ttf",
+						"800": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-Y3tcoqK5.ttf",
+						"900": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-Y3tcoqK5.ttf",
+						"regular": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-Y3tcoqK5.ttf",
+						"100italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX9-p7K5ILg.ttf",
+						"200italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX9-p7K5ILg.ttf",
+						"300italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX9-p7K5ILg.ttf",
+						"italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX9-p7K5ILg.ttf",
+						"500italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX9-p7K5ILg.ttf",
+						"600italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX9-p7K5ILg.ttf",
+						"700italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX9-p7K5ILg.ttf",
+						"800italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX9-p7K5ILg.ttf",
+						"900italic": "http://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX9-p7K5ILg.ttf"
+					},
+					"category": "sans-serif",
+					"kind": "webfonts#webfont",
+					"menu": "http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw_aX8.ttf"
+				},
+				{
+					"family": "Montserrat Alternates",
+					"variants": [
+						"100",
+						"100italic",
+						"200",
+						"200italic",
+						"300",
+						"300italic",
+						"regular",
+						"italic",
+						"500",
+						"500italic",
+						"600",
+						"600italic",
+						"700",
+						"700italic",
+						"800",
+						"800italic",
+						"900",
+						"900italic"
+					],
+					"subsets": [
+						"cyrillic",
+						"cyrillic-ext",
+						"latin",
+						"latin-ext",
+						"vietnamese"
+					],
+					"version": "v17",
+					"lastModified": "2022-09-22",
+					"files": {
+						"100": "http://fonts.gstatic.com/s/montserratalternates/v17/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiKfVKphL03l4.ttf",
+						"200": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xJIb1ALZH2mBhkw.ttf",
+						"300": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIX1ALZH2mBhkw.ttf",
+						"500": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1ALZH2mBhkw.ttf",
+						"600": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIP1ALZH2mBhkw.ttf",
+						"700": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUIL1ALZH2mBhkw.ttf",
+						"800": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xTIH1ALZH2mBhkw.ttf",
+						"900": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaID1ALZH2mBhkw.ttf",
+						"100italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xIJxp1ml4imo.ttf",
+						"200italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8dAbxD-GVxk3Nd.ttf",
+						"300italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95ArxD-GVxk3Nd.ttf",
+						"regular": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU0J7K3RCJ1b0w.ttf",
+						"italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057qfVKphL03l4.ttf",
+						"500italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA7xD-GVxk3Nd.ttf",
+						"600italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8NBLxD-GVxk3Nd.ttf",
+						"700italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBbxD-GVxk3Nd.ttf",
+						"800italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p91BrxD-GVxk3Nd.ttf",
+						"900italic": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB7xD-GVxk3Nd.ttf"
+					},
+					"category": "sans-serif",
+					"kind": "webfonts#webfont",
+					"menu": "http://fonts.gstatic.com/s/montserratalternates/v17/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU057afV.ttf"
+				},
+				{
+					"family": "Montserrat Subrayada",
+					"variants": [
+						"regular",
+						"700"
+					],
+					"subsets": [
+						"latin"
+					],
+					"version": "v17",
+					"lastModified": "2022-09-22",
+					"files": {
+						"700": "http://fonts.gstatic.com/s/montserratsubrayada/v17/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TcMWg3j36Ebz.ttf",
+						"regular": "http://fonts.gstatic.com/s/montserratsubrayada/v17/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQE8LYuceqGT-.ttf"
+					},
+					"category": "sans-serif",
+					"kind": "webfonts#webfont",
+					"menu": "http://fonts.gstatic.com/s/montserratsubrayada/v17/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8KaOM.ttf"
+				}
+			],
+			"defaultWidgetsContent": {
+				"text": {
+					"type": "text",
+					"params": {
+						"text": "Try Dirty and Interesting Questions",
+						"fontFamily": "San Francisco",
+						"fontSize": 72,
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"align": "center",
+						"color": {
+							"type": "color",
+							"value": "#FFFFFFFF"
+						},
+						"withFill": false,
+						"opacity": 100,
+						"widgetOpacity": 100,
+						"backgroundColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"backgroundOpacity": 100,
+						"editor": {
+							"fontSize": 24
+						}
+					}
+				},
+				"click_me": {
+					"params": {
+						"actionType": "story",
+						"backgroundColor": {
+							"type": "gradient",
+							"value": [
+								"#FFFFFF",
+								"#E2F1FFFF"
+							]
+						},
+						"borderColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"borderOpacity": 100,
+						"borderRadius": 192,
+						"borderWidth": 6,
+						"color": {
+							"type": "color",
+							"value": "#410D76FF"
+						},
+						"editor": {
+							"borderRadius": 64,
+							"borderWidth": 2,
+							"fontSize": 17,
+							"iconSize": 21
+						},
+						"fontFamily": "San Francisco",
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"fontSize": 51,
+						"hasBorder": false,
+						"hasIcon": false,
+						"icon": {
+							"name": "ShareLineIcon"
+						},
+						"iconSize": 63,
+						"opacity": 100,
+						"storyId": "64da6027949701b2d810afd1",
+						"text": "Continue",
+						"url": ""
+					},
+					"type": "click_me"
+				},
+				"rectangle": {
+					"type": "rectangle",
+					"params": {
+						"fillColor": {
+							"type": "color",
+							"value": "#D5F2FFFF"
+						},
+						"fillBorderRadius": 51,
+						"widgetOpacity": 100,
+						"fillOpacity": 100,
+						"strokeThickness": 9,
+						"strokeColor": {
+							"type": "color",
+							"value": "#FFFFFF"
+						},
+						"strokeOpacity": 100,
+						"hasBorder": false,
+						"editor": {
+							"fillBorderRadius": 17,
+							"strokeThickness": 3
+						}
+					}
+				}
+			}
+		},
+		"localization": {
+			"default": "en",
+			"languages": [
+				"en",
+				"fr",
+				"de",
+				"it",
+				"pt",
+				"ru",
+				"es",
+				"uk"
+			]
+		},
+		"created_at": "2023-08-14T16:59:19.008Z",
+		"updated_at": "2023-08-15T23:35:47.659Z"
+	}
+}

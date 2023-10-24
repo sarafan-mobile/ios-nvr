@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  NVR
+
+  Created by Aleksei Cherepanov on 04.08.2023.
+  Copyright © 2023 Softeam Apps. All rights reserved.
+*/
+
+"UNIT_SECOND" = "second";
+"UNIT_MINUTE" = "minute";
+"UNIT_HOUR" = "hour";
+"UNIT_DAY" = "day";
+"UNIT_WEEK" = "week";
+"UNIT_MONTH" = "month";
+"UNIT_YEAR" = "year";
+
+/// %@ - period
+"PAYWALL_TRIAL_TEMPLATE" = "%@ free, ";
+/// %@ - price, %@ - period
+"PAYWALL_SUBSCRIPTION_TEMPLATE" = "%@ per %@";
+"PAYWALL_UNLOCK" = "Unlock all premium cards";
+"PAYWALL_CANCEL_ANY_TIME" = "Cancel any time";
+/// %@ - price
+"PAYWALL_LIFETIME_TAMEPLATE" = "Only %@.";
+"PAYWALL_LIFETIME_PURCHASE" = "One time purchase";
+"PAYWALL_OFFER" = "🔥 Special Offer";
+"PAYWALL_FEATURE_QUESTIONS" = "All spicy questions";
+"PAYWALL_FEATURE_UPDATES" = "Weekly updates";
+"PAYWALL_FEATURE_NO_ADS" = "Ads free 100%";
+
+/// %lld - count of cards
+"CARDS" = "%lld cards";
+
+"CONTINUE" = "Continue";
+"LOADING" = "Loading";
+"ERROR" = "Error";
+"BACK" = "Back";
+"NEXT" = "Next";
+
+"SETTINGS_TITLE" = "Settings";
+"SETTINGS_TERMS_OF_USE" = "Terms of Use";
+"SETTINGS_PRIVACY_POLICY" = "Privacy Policy";
+"SETTINGS_TRY_PREMIUM" = "Try Premium";
+"SETTINGS_SUPPORT" = "Support";
+"SETTINGS_RATE" = "Rate";
+"SETTINGS_RESTORE" = "Restore";
+"SETTINGS_LEGAL" = "Legal Information";
+"SETTINGS_LANGUAGE" = "Language";
+"SETTINGS_HOW_TO_PLAY" = "How to play?";
+
+"NOTIFICATION_RESTORED_TITLE" = "Purchases Restored";
+"NOTIFICATION_RESTORED_INFO" = "Your purchases have been restored successfully";
+"NOTIFICATION_NO_SUBSCRIPTIONS" = "You have no active subscriptions";
+"NOTIFICATION_ADDED_TITLE" = "Card Added";
+"NOTIFICATION_ADDED_INFO" = "Card has been added to your collection";
+"NOTIFICATION_SUPPORT_SENT" = "Support request sent";
+
+"PACKS_TITLE" = "Never Have I Ever";
+"PACKS_SELECT" = "Select Packs";
+"PACKS_FAVORITES" = "Favorites";
+"PACKS_START_GAME" = "Start";
+"PACKS_CELL_INFO_TEMPLATE" = "%lld cards";
+/// %lld - count of packs, %lld - count of cards
+"PACKS_SELECTED_TEMPLATE" = "Packs: %lld, Cards: %lld";
+
+"GAME_SPEACH_TEMPLATE" = "Never Have I Ever %@";
+"GAME_EMPTY" = "No cards left";
+"GAME_TITLE_PACKS" = "%lld packs";
+"GAME_TITLE_EMPTY" = "Empty";
+
+"SHARE_TITLE" = "Download NVR game now";
+

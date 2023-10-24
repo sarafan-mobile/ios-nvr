@@ -1,0 +1,929 @@
+{
+	"error": "",
+	"data": [{
+		"id": "64da5d6f3e323b2f0e8fd339",
+		"creator_id": "627bb9d17c1c3479bbbef071",
+		"group_id": "64da5d6eed8bb7991683b614",
+		"position": 1,
+		"story_data": {
+			"background": {
+				"type": "gradient",
+				"value": ["#F40075FF", "#E000CAFF"],
+				"isFilled": true
+			},
+			"status": "active",
+			"widgets": [{
+				"id": "WWz-f35VBb_qHyyvJvSXkk",
+				"position": {
+					"x": 0,
+					"y": 330,
+					"width": 1080,
+					"height": 900,
+					"realWidth": 1080,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 1080,
+						"height": 1080,
+						"x": 0,
+						"y": 330
+					},
+					"alternative": {
+						"x": 0,
+						"y": 69
+					}
+				},
+				"editorPosition": {
+					"x": 0,
+					"y": 110,
+					"width": 360,
+					"height": 300,
+					"realWidth": 360,
+					"realHeight": 360,
+					"rotate": 0,
+					"origin": {
+						"width": 360,
+						"height": 360,
+						"x": 0,
+						"y": 110
+					},
+					"alternative": {
+						"x": 0,
+						"y": 23
+					}
+				},
+				"positionLimits": {
+					"minWidth": 10,
+					"maxWidth": 1080,
+					"minHeight": 10,
+					"isResizableX": true,
+					"isResizableY": false,
+					"isRotatable": true,
+					"isAutoHeight": true
+				},
+				"content": {
+					"type": "image",
+					"params": {
+						"borderRadius": 0,
+						"widgetOpacity": 100,
+						"imageUrl": "https://d1si975cjir3p3.cloudfront.net/627bb9d17c1c3479bbbef071/1692032414370.webp",
+						"fileId": "64da5d9fed8bb7991683b615"
+					}
+				}
+			}, {
+				"id": "WDCIhZUuBpMGDPeW9zaQe3",
+				"position": {
+					"x": 108,
+					"y": 1548,
+					"width": 867,
+					"height": 288,
+					"realWidth": 867,
+					"realHeight": 216,
+					"rotate": 0,
+					"origin": {
+						"width": 867,
+						"height": 216,
+						"x": 108,
+						"y": 1548
+					},
+					"alternative": {
+						"x": 105,
+						"y": 1236
+					}
+				},
+				"editorPosition": {
+					"x": 36,
+					"y": 516,
+					"width": 289,
+					"height": 96,
+					"realWidth": 289,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 289,
+						"height": 72,
+						"x": 36,
+						"y": 516
+					},
+					"alternative": {
+						"x": 35,
+						"y": 412
+					}
+				},
+				"positionLimits": {
+					"isResizableX": true,
+					"isResizableY": false,
+					"isAutoHeight": true,
+					"isRotatable": true
+				},
+				"content": {
+					"type": "text",
+					"params": {
+						"text": "Choose from 9 sets and over 1000 questions",
+						"fontFamily": "San Francisco",
+						"fontSize": 72,
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"align": "center",
+						"color": {
+							"type": "color",
+							"value": "#FFFFFFFF"
+						},
+						"withFill": false,
+						"opacity": 100,
+						"widgetOpacity": 100,
+						"backgroundColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"backgroundOpacity": 100,
+						"editor": {
+							"fontSize": 24
+						}
+					}
+				}
+			}, {
+				"id": "WJIyCHZLU1SaKhjKoH93cr",
+				"position": {
+					"rotate": 0,
+					"x": 90,
+					"y": 1914,
+					"width": 900,
+					"height": 192,
+					"realWidth": 900,
+					"realHeight": 192,
+					"origin": {
+						"width": 900,
+						"height": 192,
+						"x": 90,
+						"y": 1914
+					},
+					"alternative": {
+						"x": 90,
+						"y": 1539
+					}
+				},
+				"editorPosition": {
+					"rotate": 0,
+					"x": 30,
+					"y": 638,
+					"width": 300,
+					"height": 64,
+					"realWidth": 300,
+					"realHeight": 64,
+					"origin": {
+						"width": 300,
+						"height": 64,
+						"x": 30,
+						"y": 638
+					},
+					"alternative": {
+						"x": 30,
+						"y": 513
+					}
+				},
+				"positionLimits": {
+					"isResizableX": true,
+					"isResizableY": true,
+					"isRotatable": true
+				},
+				"content": {
+					"type": "click_me",
+					"params": {
+						"text": "Continue",
+						"fontFamily": "San Francisco",
+						"fontSize": 51,
+						"iconSize": 63,
+						"color": {
+							"type": "color",
+							"value": "#410D76FF"
+						},
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"opacity": 100,
+						"borderOpacity": 100,
+						"hasIcon": false,
+						"borderRadius": 192,
+						"backgroundColor": {
+							"type": "gradient",
+							"value": ["#FFFFFF", "#E2F1FFFF"]
+						},
+						"borderWidth": 6,
+						"borderColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"hasBorder": false,
+						"url": "",
+						"storyId": "64da5f7f949701b2d810afce",
+						"actionType": "story",
+						"icon": {
+							"name": "ShareLineIcon"
+						},
+						"editor": {
+							"fontSize": 17,
+							"iconSize": 21,
+							"borderWidth": 2,
+							"borderRadius": 64
+						}
+					}
+				}
+			}, {
+				"id": "WCyXsTS2F_l3sfu9dp6VbD",
+				"position": {
+					"x": 474,
+					"y": 2202,
+					"width": 132,
+					"height": 72,
+					"realWidth": 132,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 132,
+						"height": 72,
+						"x": 474,
+						"y": 1791
+					},
+					"alternative": {
+						"x": 474,
+						"y": 1791
+					}
+				},
+				"editorPosition": {
+					"x": 158,
+					"y": 734,
+					"width": 44,
+					"height": 24,
+					"realWidth": 44,
+					"realHeight": 24,
+					"rotate": 0,
+					"origin": {
+						"width": 44,
+						"height": 24,
+						"x": 158,
+						"y": 597
+					},
+					"alternative": {
+						"x": 158,
+						"y": 597
+					}
+				},
+				"positionLimits": {
+					"minWidth": 10,
+					"maxWidth": 1080,
+					"minHeight": 10,
+					"isResizableX": true,
+					"isResizableY": false,
+					"isRotatable": true,
+					"isAutoHeight": true
+				},
+				"content": {
+					"type": "image",
+					"params": {
+						"borderRadius": 0,
+						"widgetOpacity": 100,
+						"imageUrl": "https://d1si975cjir3p3.cloudfront.net/627bb9d17c1c3479bbbef071/1692033820103.webp",
+						"fileId": "64da631ced8bb7991683b616"
+					}
+				}
+			}],
+			"is_hidden": false,
+			"start_time": "2023-08-14T16:59:27.461Z",
+			"end_time": null
+		},
+		"layer_data": {
+			"layersGroupId": "ElKLTEq7mn_YwpAznKq9D",
+			"positionInGroup": 1,
+			"score": {
+				"letter": "A",
+				"points": 0
+			},
+			"isDefaultLayer": true,
+			"shortDataId": "64da5d703e323b2f0e8fd33a"
+		},
+		"created_at": "2023-08-14T16:59:27.709Z",
+		"updated_at": "2023-08-15T23:35:58.469Z"
+	}, {
+		"id": "64da5f7f949701b2d810afce",
+		"creator_id": "627bb9d17c1c3479bbbef071",
+		"group_id": "64da5d6eed8bb7991683b614",
+		"position": 2,
+		"story_data": {
+			"background": {
+				"type": "gradient",
+				"value": ["#F40075FF", "#E000CAFF"],
+				"isFilled": true
+			},
+			"status": "active",
+			"widgets": [{
+				"id": "WJVHG1oGtYXKIMUYMNr4ZW",
+				"position": {
+					"x": 108,
+					"y": 1548,
+					"width": 867,
+					"height": 288,
+					"realWidth": 867,
+					"realHeight": 216,
+					"rotate": 0,
+					"origin": {
+						"width": 867,
+						"height": 216,
+						"x": 105,
+						"y": 1236
+					},
+					"alternative": {
+						"x": 105,
+						"y": 1236
+					}
+				},
+				"editorPosition": {
+					"x": 36,
+					"y": 516,
+					"width": 289,
+					"height": 96,
+					"realWidth": 289,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 289,
+						"height": 72,
+						"x": 35,
+						"y": 412
+					},
+					"alternative": {
+						"x": 35,
+						"y": 412
+					}
+				},
+				"positionLimits": {
+					"isResizableX": true,
+					"isResizableY": false,
+					"isAutoHeight": true,
+					"isRotatable": true
+				},
+				"content": {
+					"type": "text",
+					"params": {
+						"text": "Try Dirty and Interesting Questions",
+						"fontFamily": "San Francisco",
+						"fontSize": 72,
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"align": "center",
+						"color": {
+							"type": "color",
+							"value": "#FFFFFFFF"
+						},
+						"withFill": false,
+						"opacity": 100,
+						"widgetOpacity": 100,
+						"backgroundColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"backgroundOpacity": 100,
+						"editor": {
+							"fontSize": 24
+						}
+					}
+				}
+			}, {
+				"id": "WGsWdca76QMoIsVTKRqxrW",
+				"position": {
+					"rotate": 0,
+					"x": 90,
+					"y": 1914,
+					"width": 900,
+					"height": 192,
+					"realWidth": 900,
+					"realHeight": 192,
+					"origin": {
+						"width": 900,
+						"height": 192,
+						"x": 90,
+						"y": 1914
+					},
+					"alternative": {
+						"x": 90,
+						"y": 1539
+					}
+				},
+				"editorPosition": {
+					"rotate": 0,
+					"x": 30,
+					"y": 638,
+					"width": 300,
+					"height": 64,
+					"realWidth": 300,
+					"realHeight": 64,
+					"origin": {
+						"width": 300,
+						"height": 64,
+						"x": 30,
+						"y": 638
+					},
+					"alternative": {
+						"x": 30,
+						"y": 513
+					}
+				},
+				"positionLimits": {
+					"isResizableX": true,
+					"isResizableY": true,
+					"isRotatable": true
+				},
+				"content": {
+					"type": "click_me",
+					"params": {
+						"text": "Continue",
+						"fontFamily": "San Francisco",
+						"fontSize": 51,
+						"iconSize": 63,
+						"color": {
+							"type": "color",
+							"value": "#410D76FF"
+						},
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"opacity": 100,
+						"borderOpacity": 100,
+						"hasIcon": false,
+						"borderRadius": 192,
+						"backgroundColor": {
+							"type": "gradient",
+							"value": ["#FFFFFF", "#E2F1FFFF"]
+						},
+						"borderWidth": 6,
+						"borderColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"hasBorder": false,
+						"url": "",
+						"storyId": "64da6027949701b2d810afd1",
+						"actionType": "story",
+						"icon": {
+							"name": "ShareLineIcon"
+						},
+						"editor": {
+							"fontSize": 17,
+							"iconSize": 21,
+							"borderWidth": 2,
+							"borderRadius": 64
+						}
+					}
+				}
+			}, {
+				"id": "WlNsWiAh6wTWDEE8-VC932",
+				"position": {
+					"x": 90,
+					"y": 384,
+					"width": 900,
+					"height": 900,
+					"realWidth": 900,
+					"realHeight": 984,
+					"rotate": 0,
+					"origin": {
+						"width": 900,
+						"height": 981,
+						"x": 90,
+						"y": 78
+					},
+					"alternative": {
+						"x": 90,
+						"y": 81
+					}
+				},
+				"editorPosition": {
+					"x": 30,
+					"y": 128,
+					"width": 300,
+					"height": 300,
+					"realWidth": 300,
+					"realHeight": 328,
+					"rotate": 0,
+					"origin": {
+						"width": 300,
+						"height": 327,
+						"x": 30,
+						"y": 26
+					},
+					"alternative": {
+						"x": 30,
+						"y": 27
+					}
+				},
+				"positionLimits": {
+					"minWidth": 10,
+					"maxWidth": 1080,
+					"minHeight": 10,
+					"isResizableX": true,
+					"isResizableY": false,
+					"isRotatable": true,
+					"isAutoHeight": true
+				},
+				"content": {
+					"type": "image",
+					"params": {
+						"borderRadius": 0,
+						"widgetOpacity": 100,
+						"imageUrl": "https://d1si975cjir3p3.cloudfront.net/627bb9d17c1c3479bbbef071/1692032996102.webp",
+						"fileId": "64da5fe5949701b2d810afcf"
+					}
+				}
+			}, {
+				"id": "W4oWAD1mRbcpxZcb5X3t5T",
+				"position": {
+					"x": 474,
+					"y": 2199,
+					"width": 132,
+					"height": 900,
+					"realWidth": 132,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 132,
+						"height": 72,
+						"x": 474,
+						"y": 1776
+					},
+					"alternative": {
+						"x": 474,
+						"y": 1776
+					}
+				},
+				"editorPosition": {
+					"x": 158,
+					"y": 733,
+					"width": 44,
+					"height": 300,
+					"realWidth": 44,
+					"realHeight": 24,
+					"rotate": 0,
+					"origin": {
+						"width": 44,
+						"height": 24,
+						"x": 158,
+						"y": 592
+					},
+					"alternative": {
+						"x": 158,
+						"y": 592
+					}
+				},
+				"positionLimits": {
+					"minWidth": 10,
+					"maxWidth": 1080,
+					"minHeight": 10,
+					"isResizableX": true,
+					"isResizableY": false,
+					"isRotatable": true,
+					"isAutoHeight": true
+				},
+				"content": {
+					"type": "image",
+					"params": {
+						"borderRadius": 0,
+						"widgetOpacity": 100,
+						"imageUrl": "https://d1si975cjir3p3.cloudfront.net/627bb9d17c1c3479bbbef071/1692033911424.webp",
+						"fileId": "64da6378ed8bb7991683b617"
+					}
+				}
+			}],
+			"is_hidden": false,
+			"start_time": "2023-08-14T17:08:15.015Z",
+			"end_time": null
+		},
+		"layer_data": {
+			"layersGroupId": "ud75BDcoe0cLGPHAqVggB",
+			"score": {
+				"letter": "A",
+				"points": 0
+			},
+			"isDefaultLayer": true,
+			"positionInGroup": 1,
+			"shortDataId": "64da5f7f3e323b2f0e8fd33c"
+		},
+		"created_at": "2023-08-14T17:08:15.284Z",
+		"updated_at": "2023-08-17T17:32:51.217Z"
+	}, {
+		"id": "64da6027949701b2d810afd1",
+		"creator_id": "627bb9d17c1c3479bbbef071",
+		"group_id": "64da5d6eed8bb7991683b614",
+		"position": 3,
+		"story_data": {
+			"background": {
+				"type": "gradient",
+				"value": ["#F40075FF", "#E000CAFF"],
+				"isFilled": true
+			},
+			"status": "active",
+			"widgets": [{
+				"id": "WbeuSUiEzDCOJH20k3y4w0",
+				"position": {
+					"x": 108,
+					"y": 1548,
+					"width": 867,
+					"height": 288,
+					"realWidth": 867,
+					"realHeight": 216,
+					"rotate": 0,
+					"origin": {
+						"width": 867,
+						"height": 216,
+						"x": 108,
+						"y": 1548
+					},
+					"alternative": {
+						"x": 105,
+						"y": 1236
+					}
+				},
+				"editorPosition": {
+					"x": 36,
+					"y": 516,
+					"width": 289,
+					"height": 96,
+					"realWidth": 289,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 289,
+						"height": 72,
+						"x": 36,
+						"y": 516
+					},
+					"alternative": {
+						"x": 35,
+						"y": 412
+					}
+				},
+				"positionLimits": {
+					"isResizableX": true,
+					"isResizableY": false,
+					"isAutoHeight": true,
+					"isRotatable": true
+				},
+				"content": {
+					"type": "text",
+					"params": {
+						"text": "Add questions in\n Favorite pack",
+						"fontFamily": "San Francisco",
+						"fontSize": 72,
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"align": "center",
+						"color": {
+							"type": "color",
+							"value": "#FFFFFFFF"
+						},
+						"withFill": false,
+						"opacity": 100,
+						"widgetOpacity": 100,
+						"backgroundColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"backgroundOpacity": 100,
+						"editor": {
+							"fontSize": 24
+						}
+					},
+					"widgetImage": "https://d1si975cjir3p3.cloudfront.net/html2image/1692291178006.webp"
+				}
+			}, {
+				"id": "W7M00JZT9pHsKaQgfmFsem",
+				"position": {
+					"rotate": 0,
+					"x": 90,
+					"y": 1914,
+					"width": 900,
+					"height": 192,
+					"realWidth": 900,
+					"realHeight": 192,
+					"origin": {
+						"width": 900,
+						"height": 192,
+						"x": 90,
+						"y": 1914
+					},
+					"alternative": {
+						"x": 90,
+						"y": 1539
+					}
+				},
+				"editorPosition": {
+					"rotate": 0,
+					"x": 30,
+					"y": 638,
+					"width": 300,
+					"height": 64,
+					"realWidth": 300,
+					"realHeight": 64,
+					"origin": {
+						"width": 300,
+						"height": 64,
+						"x": 30,
+						"y": 638
+					},
+					"alternative": {
+						"x": 30,
+						"y": 513
+					}
+				},
+				"positionLimits": {
+					"isResizableX": true,
+					"isResizableY": true,
+					"isRotatable": true
+				},
+				"content": {
+					"type": "click_me",
+					"params": {
+						"text": "Continue",
+						"fontFamily": "San Francisco",
+						"fontSize": 51,
+						"iconSize": 63,
+						"color": {
+							"type": "color",
+							"value": "#410D76FF"
+						},
+						"fontParams": {
+							"style": "normal",
+							"weight": 700
+						},
+						"opacity": 100,
+						"borderOpacity": 100,
+						"hasIcon": false,
+						"borderRadius": 192,
+						"backgroundColor": {
+							"type": "gradient",
+							"value": ["#FFFFFF", "#E2F1FFFF"]
+						},
+						"borderWidth": 6,
+						"borderColor": {
+							"type": "color",
+							"value": "#ffffff"
+						},
+						"hasBorder": false,
+						"url": "",
+						"storyId": "64da5d6f3e323b2f0e8fd339",
+						"actionType": "link",
+						"icon": {
+							"name": "ShareLineIcon"
+						},
+						"editor": {
+							"fontSize": 17,
+							"iconSize": 21,
+							"borderWidth": 2,
+							"borderRadius": 64
+						},
+						"customFields": {
+							"ios": "paywall"
+						}
+					}
+				}
+			}, {
+				"id": "WMdJ3gooMNdMArSQi7YL08",
+				"position": {
+					"x": 0,
+					"y": 330,
+					"width": 1080,
+					"height": 900,
+					"realWidth": 1080,
+					"realHeight": 1080,
+					"rotate": 0,
+					"origin": {
+						"width": 1080,
+						"height": 1080,
+						"x": 0,
+						"y": 330
+					},
+					"alternative": {
+						"x": 0,
+						"y": 69
+					}
+				},
+				"editorPosition": {
+					"x": 0,
+					"y": 110,
+					"width": 360,
+					"height": 300,
+					"realWidth": 360,
+					"realHeight": 360,
+					"rotate": 0,
+					"origin": {
+						"width": 360,
+						"height": 360,
+						"x": 0,
+						"y": 110
+					},
+					"alternative": {
+						"x": 0,
+						"y": 23
+					}
+				},
+				"positionLimits": {
+					"minWidth": 10,
+					"maxWidth": 1080,
+					"minHeight": 10,
+					"isResizableX": true,
+					"isResizableY": false,
+					"isRotatable": true,
+					"isAutoHeight": true
+				},
+				"content": {
+					"type": "image",
+					"params": {
+						"borderRadius": 0,
+						"widgetOpacity": 100,
+						"imageUrl": "https://d1si975cjir3p3.cloudfront.net/627bb9d17c1c3479bbbef071/1692033083079.webp",
+						"fileId": "64da603c949701b2d810afd2"
+					}
+				}
+			}, {
+				"id": "WumoZeUaQGICyXfP15x6wA",
+				"position": {
+					"x": 474,
+					"y": 2202,
+					"width": 132,
+					"height": 900,
+					"realWidth": 132,
+					"realHeight": 72,
+					"rotate": 0,
+					"origin": {
+						"width": 132,
+						"height": 72,
+						"x": 474,
+						"y": 2202
+					},
+					"alternative": {
+						"x": 474,
+						"y": 1809
+					}
+				},
+				"editorPosition": {
+					"x": 158,
+					"y": 734,
+					"width": 44,
+					"height": 300,
+					"realWidth": 44,
+					"realHeight": 24,
+					"rotate": 0,
+					"origin": {
+						"width": 44,
+						"height": 24,
+						"x": 158,
+						"y": 734
+					},
+					"alternative": {
+						"x": 158,
+						"y": 603
+					}
+				},
+				"positionLimits": {
+					"minWidth": 10,
+					"maxWidth": 1080,
+					"minHeight": 10,
+					"isResizableX": true,
+					"isResizableY": false,
+					"isRotatable": true,
+					"isAutoHeight": true
+				},
+				"content": {
+					"type": "image",
+					"params": {
+						"borderRadius": 0,
+						"widgetOpacity": 100,
+						"imageUrl": "https://d1si975cjir3p3.cloudfront.net/627bb9d17c1c3479bbbef071/1692033986680.webp",
+						"fileId": "64da63c33e323b2f0e8fd342"
+					}
+				}
+			}],
+			"is_hidden": false,
+			"start_time": "2023-08-14T17:11:03.169Z",
+			"end_time": null
+		},
+		"layer_data": {
+			"layersGroupId": "o5a9Hzov_nJLCu1aFtIMP",
+			"score": {
+				"letter": "A",
+				"points": 0
+			},
+			"isDefaultLayer": true,
+			"positionInGroup": 1,
+			"shortDataId": "64da60273e323b2f0e8fd33e"
+		},
+		"created_at": "2023-08-14T17:11:03.43Z",
+		"updated_at": "2023-08-17T17:33:07.836Z"
+	}]
+}
